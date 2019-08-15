@@ -5,6 +5,6 @@ Dieter Bogdoll <dibog@github.com>
 ifdef::status[]
 //.*Project health*
 image:https://img.shields.io/badge/license-Apache%202-blue[Apache 2]
-image:https://jitpack.io/v/dibog/spring-jdbc-template-demo.svg[Foo]
-image:https://img.shields.io/maven-metadata/v/http/central.maven.org/maven2/io/github/dibog/kotlin-utils/maven-metadata.xml?style=plastic
+image:https://jitpack.io/v/dibog/spring-jdbc-template-demo.svg[Jitpack]
+image:https://img.shields.io/maven-metadata/v/http/central.maven.org/maven2/io/github/dibog/kotlin-utils/maven-metadata.xml[Maven]
 endif::[]
